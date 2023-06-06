@@ -17,8 +17,10 @@ It'll also tell the user how much they can spend for the rest of the month to st
 1. Show expenses by category
 2. Give the user a rough estimate of how much they have left to spend per day
 
+Python CLI Expense Example
+------------------------------
 <img width="325" alt="image" src="https://github.com/FrontEndDev-James/Personal-Expense-Tracker/assets/67937330/4e1311d9-e67b-4eac-8fa7-5516e08fa151">
--- Python CLI Expense Example --
+
 
 
 
