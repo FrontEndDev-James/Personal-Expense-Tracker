@@ -2,5 +2,6 @@
 Personal Expense Tracking application using Python
 
 Python CLI Expense Example
-<img width="265" alt="image" src="https://github.com/FrontEndDev-James/Personal-Expense-Tracker/assets/67937330/aeb67102-2362-4ae5-8935-8f37a4cc1d23">
+<img width="325" alt="image" src="https://github.com/FrontEndDev-James/Personal-Expense-Tracker/assets/67937330/4e1311d9-e67b-4eac-8fa7-5516e08fa151">
+
 
