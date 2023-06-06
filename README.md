@@ -7,15 +7,15 @@ It'll also tell the user how much they can spend for the rest of the month to st
 
 🎯 App Requirements
 ------------------------------
-Ask the user to add an expense (name, category, amount)
-Save expense entries to a .csv file.
-Read the file to summarise the expense totals for that month
-Show the user how much they can spend for the rest of the month (to stay in budget)
+1. Ask the user to add an expense (name, category, amount)
+2. Save expense entries to a .csv file.
+3. Read the file to summarise the expense totals for that month
+4. Show the user how much they can spend for the rest of the month (to stay in budget)
 
 ✨ Bonus
 ------------------------------
-Show expenses by category
-Give the user a rough estimate of how much they have left to spend per day
+1. Show expenses by category
+2. Give the user a rough estimate of how much they have left to spend per day
 
 <img width="325" alt="image" src="https://github.com/FrontEndDev-James/Personal-Expense-Tracker/assets/67937330/4e1311d9-e67b-4eac-8fa7-5516e08fa151">
 -- Python CLI Expense Example --
