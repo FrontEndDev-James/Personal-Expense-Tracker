@@ -6,11 +6,14 @@ The app will let users type their expense category and amount directly into the 
 It'll also tell the user how much they can spend for the rest of the month to stay in budget (which is a custom value decided by your app, e.g. $2000.
 
 🎯 App Requirements
+------------------------------
 Ask the user to add an expense (name, category, amount)
 Save expense entries to a .csv file.
 Read the file to summarise the expense totals for that month
 Show the user how much they can spend for the rest of the month (to stay in budget)
+
 ✨ Bonus
+------------------------------
 Show expenses by category
 Give the user a rough estimate of how much they have left to spend per day
 
